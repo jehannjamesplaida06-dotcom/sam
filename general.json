@@ -1,0 +1,38 @@
+{
+  "Easy": [
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+      "answer": "Lion"
+    }
+  ],
+  "Medium": [
+    {
+      "question": "Which country invented pizza?",
+      "options": ["France", "Italy", "USA", "Greece"],
+      "answer": "Italy"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury"
+    }
+  ],
+  "Hard": [
+    {
+      "question": "Who wrote 'The Art of War'?",
+      "options": ["Sun Tzu", "Confucius", "Laozi", "Mencius"],
+      "answer": "Sun Tzu"
+    },
+    {
+      "question": "What is the capital city of Mongolia?",
+      "options": ["Ulaanbaatar", "Astana", "Tashkent", "Bishkek"],
+      "answer": "Ulaanbaatar"
+    }
+  ]
+}

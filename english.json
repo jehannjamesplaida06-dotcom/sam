@@ -1,0 +1,193 @@
+{
+    "Easy":[
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["Large", "Huge", "Small", "Tall"],
+      "answer": "Small"
+    },
+    {
+      "question": "Which word is a noun?",
+      "options": ["Run", "Happy", "Book", "Quickly"],
+      "answer": "Book"
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "options": ["Childs", "Children", "Childes", "Childrens"],
+      "answer": "Children"
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "options": ["Goed", "Went", "Gone", "Go"],
+      "answer": "Went"
+    },
+    {
+      "question": "Which of these is a vowel?",
+      "options": ["B", "E", "K", "T"],
+      "answer": "E"
+    },
+    {
+      "question": "What is the synonym of 'happy'?",
+      "options": ["Sad", "Joyful", "Angry", "Tired"],
+      "answer": "Joyful"
+    },
+    {
+      "question": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "an"
+    },
+    {
+      "question": "Which of these words is spelled correctly?",
+      "options": ["Frend", "Friend", "Freind", "Frind"],
+      "answer": "Friend"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["Boiling", "Warm", "Cold", "Heat"],
+      "answer": "Cold"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": ["He am a student.", "He is a student.", "He are a student.", "He be a student."],
+      "answer": "He is a student."
+    }
+  ],
+    "Medium":[
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "She don't like apples.",
+        "She doesn't like apples.",
+        "She not like apples.",
+        "She didn't likes apples."
+      ],
+      "answer": "She doesn't like apples."
+    },
+    {
+      "question": "What figure of speech is 'The stars danced in the night sky'?",
+      "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "answer": "Personification"
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "options": ["Definately", "Definitely", "Definetly", "Definitaly"],
+      "answer": "Definitely"
+    },
+    {
+      "question": "What is the antonym of 'ancient'?",
+      "options": ["Old", "Modern", "Historic", "Past"],
+      "answer": "Modern"
+    },
+    {
+      "question": "Which of the following is an adjective?",
+      "options": ["Run", "Quick", "Slowly", "Eat"],
+      "answer": "Quick"
+    },
+    {
+      "question": "Identify the adverb in this sentence: 'She sings beautifully.'",
+      "options": ["She", "Sings", "Beautifully", "Song"],
+      "answer": "Beautifully"
+    },
+    {
+      "question": "Which word is a homophone of 'sea'?",
+      "options": ["See", "Say", "Seem", "Seen"],
+      "answer": "See"
+    },
+    {
+      "question": "Which sentence uses correct punctuation?",
+      "options": [
+        "I like pizza, pasta, and ice cream.",
+        "I like, pizza pasta, and ice cream.",
+        "I like pizza pasta and, ice cream.",
+        "I like pizza pasta and ice, cream."
+      ],
+      "answer": "I like pizza, pasta, and ice cream."
+    },
+    {
+      "question": "What is the comparative form of 'good'?",
+      "options": ["Gooder", "Better", "Best", "More good"],
+      "answer": "Better"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He have finished his homework.",
+        "He has finished his homework.",
+        "He is finished his homework.",
+        "He was finished his homework."
+      ],
+      "answer": "He has finished his homework."
+    }
+  ],
+    "Hard": [
+    {
+      "question": "What is the meaning of the word 'ephemeral'?",
+      "options": ["Lasting a short time", "Extremely happy", "Difficult to understand", "Very strong"],
+      "answer": "Lasting a short time"
+    },
+    {
+      "question": "Which sentence contains an oxymoron?",
+      "options": [
+        "He is clearly confused.",
+        "The stars are shining bright.",
+        "She runs like the wind.",
+        "He is as tall as a tree."
+      ],
+      "answer": "He is clearly confused."
+    },
+    {
+      "question": "Identify the error: 'Each of the players have a unique style.'",
+      "options": ["No error", "'Each' should be 'All'", "'have' should be 'has'", "'style' should be 'styles'"],
+      "answer": "'have' should be 'has'"
+    },
+    {
+      "question": "Which of these is an example of a palindrome?",
+      "options": ["Level", "Book", "Word", "Happy"],
+      "answer": "Level"
+    },
+    {
+      "question": "What is the meaning of 'ubiquitous'?",
+      "options": ["Rare", "Present everywhere", "Unknown", "Dangerous"],
+      "answer": "Present everywhere"
+    },
+    {
+      "question": "Which literary device is used in: 'Silence roared loudly in the room'?",
+      "options": ["Simile", "Metaphor", "Oxymoron", "Alliteration"],
+      "answer": "Oxymoron"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Neither of the boys are playing.",
+        "Neither of the boys is playing.",
+        "Neither of the boy are playing.",
+        "Neither of the boys were playing."
+      ],
+      "answer": "Neither of the boys is playing."
+    },
+    {
+      "question": "What is the superlative form of 'far'?",
+      "options": ["Farther", "Farest", "Furthest", "Most far"],
+      "answer": "Furthest"
+    },
+    {
+      "question": "Which of these sentences is in passive voice?",
+      "options": [
+        "The dog chased the cat.",
+        "The cat was chased by the dog.",
+        "The cat is chasing the dog.",
+        "The dog will chase the cat."
+      ],
+      "answer": "The cat was chased by the dog."
+    },
+    {
+      "question": "What is the meaning of the idiom 'burning the midnight oil'?",
+      "options": [
+        "Wasting resources",
+        "Working late into the night",
+        "Getting very angry",
+        "Running out of time"
+      ],
+      "answer": "Working late into the night"
+    }
+  ]
+  }

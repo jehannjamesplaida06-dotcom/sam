@@ -1,0 +1,159 @@
+{
+  "Easy": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is 12 - 5?",
+      "options": ["7", "4", "5", "6"],
+      "answer": "7"
+    },
+    {
+      "question": "What is 8 - 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "6"
+    },
+    {
+      "question": "What is 11 + 2?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "13"
+    },
+    {
+      "question": "What is 12 + 2?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "14"
+    },
+    {
+      "question": "What is 4 + 12?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "16"
+    },
+    {
+      "question": "What is 20 - 5?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 20 - 7?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "13"
+    },
+     {
+      "question": "What is 9 + 5?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "14"
+    },
+    {
+      "question": "What is 5 - 3?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    }
+  ],
+  "Medium": [
+    {
+    "question": "What is 12 × 12?",
+    "options": ["124", "144", "134", "154"],
+    "answer": "144"
+    },
+    {
+      "question": "Solve for x: 5x + 10 = 35",
+      "options": ["x = 3", "x = 5", "x = 6", "x = 7"],
+      "answer": "x = 5"
+    },
+    {
+      "question": "What is 45 ÷ 9?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the area of a rectangle with length 8 and width 5?",
+      "options": ["40", "35", "45", "30"],
+      "answer": "40"
+    },
+    {
+      "question": "Solve for x: 2x - 7 = 9",
+      "options": ["x = 7", "x = 6", "x = 8", "x = 9"],
+      "answer": "x = 8"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30"
+    },
+    {
+      "question": "Simplify: 3² + 4²",
+      "options": ["12", "24", "25", "16"],
+      "answer": "25"
+    },
+    {
+      "question": "Solve for x: x/4 = 6",
+      "options": ["x = 20", "x = 22", "x = 24", "x = 26"],
+      "answer": "x = 24"
+    },
+    {
+      "question": "What is the perimeter of a square with side 9?",
+      "options": ["36", "27", "45", "18"],
+      "answer": "36"
+    },
+    {
+      "question": "If y = 3x + 2, find y when x = 4",
+      "options": ["12", "14", "10", "16"],
+      "answer": "14"
+    }
+  ],
+  "Hard": [
+  {
+    "question": "What is the derivative of 5x³?",
+    "options": ["15x²", "5x²", "10x²", "25x²"],
+    "answer": "15x²"
+  },
+  {
+    "question": "Solve for x: 3x² - 12 = 0",
+    "options": ["x = ±2", "x = ±4", "x = ±3", "x = 6"],
+    "answer": "x = ±2"
+  },
+  {
+    "question": "Integrate: ∫ 2x dx",
+    "options": ["x² + C", "2x² + C", "x + C", "x²/2 + C"],
+    "answer": "x² + C"
+  },
+  {
+    "question": "What is the limit: lim(x→0) (sin x)/x?",
+    "options": ["0", "1", "Undefined", "Infinity"],
+    "answer": "1"
+  },
+  {
+    "question": "What is the value of log₁₀1000?",
+    "options": ["1", "2", "3", "10"],
+    "answer": "3"
+  },
+  {
+    "question": "Solve for x: 2^x = 16",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "What is the integral of 1/x dx?",
+    "options": ["ln x + C", "1/x² + C", "x + C", "e^x + C"],
+    "answer": "ln x + C"
+  },
+  {
+    "question": "Simplify: (x²y³)²",
+    "options": ["x⁴y⁶", "x⁴y⁹", "x²y⁶", "x²y⁹"],
+    "answer": "x⁴y⁶"
+  },
+  {
+    "question": "Solve for x: x² + 5x + 6 = 0",
+    "options": ["x = -2, -3", "x = 2, 3", "x = -1, -6", "x = 1, 6"],
+    "answer": "x = -2, -3"
+  },
+  {
+    "question": "Evaluate: 7! / (5! × 2!)",
+    "options": ["21", "42", "35", "15"],
+    "answer": "21"
+  }
+]
+
+}

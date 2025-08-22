@@ -1,0 +1,159 @@
+{
+  "Easy": [
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which organ pumps blood throughout the human body?",
+    "options": ["Lungs", "Brain", "Heart", "Kidneys"],
+    "answer": "Heart"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Roots", "Stem", "Leaves", "Flowers"],
+    "answer": "Leaves"
+  },
+  {
+    "question": "What is the natural satellite of the Earth?",
+    "options": ["Moon", "Mars", "Sun", "Venus"],
+    "answer": "Moon"
+  },
+  {
+    "question": "Which simple machine is a ramp considered as?",
+    "options": ["Lever", "Inclined Plane", "Pulley", "Wheel and Axle"],
+    "answer": "Inclined Plane"
+  },
+  {
+    "question": "Which sense organ detects light?",
+    "options": ["Ear", "Skin", "Eyes", "Nose"],
+    "answer": "Eyes"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "Which liquid is essential for humans to survive?",
+    "options": ["Water", "Oil", "Milk", "Juice"],
+    "answer": "Water"
+  }
+],
+  "Medium": [
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Ag", "Au", "Gd", "Go"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which organ is responsible for filtering blood in the human body?",
+    "options": ["Heart", "Lungs", "Kidneys", "Liver"],
+    "answer": "Kidneys"
+  },
+  {
+    "question": "What type of energy is stored in a stretched rubber band?",
+    "options": ["Kinetic", "Potential", "Thermal", "Nuclear"],
+    "answer": "Potential"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the process by which plants release water vapor into the air?",
+    "options": ["Transpiration", "Condensation", "Evaporation", "Photosynthesis"],
+    "answer": "Transpiration"
+  },
+  {
+    "question": "Which blood cells fight infections in the body?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells"
+  },
+  {
+    "question": "Which organelle is called the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "What type of bond involves the sharing of electrons between atoms?",
+    "options": ["Ionic Bond", "Covalent Bond", "Hydrogen Bond", "Metallic Bond"],
+    "answer": "Covalent Bond"
+  },
+  {
+    "question": "What is the unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ampere"
+  }
+],
+  "Hard": [
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "1.5 × 10^8 m/s", "1 × 10^9 m/s"],
+    "answer": "3 × 10^8 m/s"
+  },
+  {
+    "question": "Which type of cell division produces gametes?",
+    "options": ["Mitosis", "Meiosis", "Binary Fission", "Budding"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "Na2CO3"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which planet has the shortest day in the solar system?",
+    "options": ["Earth", "Jupiter", "Mars", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What type of wave is a sound wave?",
+    "options": ["Electromagnetic", "Transverse", "Longitudinal", "Surface"],
+    "answer": "Longitudinal"
+  },
+  {
+    "question": "Which scientist is known for the laws of motion?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Spleen"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "What is the most common element in the universe?",
+    "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which particle has a positive charge?",
+    "options": ["Electron", "Proton", "Neutron", "Photon"],
+    "answer": "Proton"
+  }
+]
+
+}

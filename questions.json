@@ -1,0 +1,152 @@
+{
+  "Math": {
+    "Easy": [
+      {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      {
+        "question": "What is 2 + 4?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "6"
+      },
+      {
+        "question": "What is 11 - 2?",
+        "options": ["8", "7", "9", "6"],
+        "answer": "9"
+      },
+      {
+        "question": "What is 13 + 11?",
+        "options": ["32", "42", "25", "24"],
+        "answer": "24"
+      },
+      {
+        "question": "What is 10 - 3?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "7"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What is 12 × 8?",
+        "options": ["96", "88", "108", "86"],
+        "answer": "96"
+      },
+      {
+        "question": "Solve for x: 2x + 6 = 14",
+        "options": ["x = 4", "x = 3", "x = 5", "x = 2"],
+        "answer": "x = 4"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is the derivative of 3x²?",
+        "options": ["6x", "3x", "x²", "2x"],
+        "answer": "6x"
+      },
+      {
+        "question": "What is the integral of 2x dx?",
+        "options": ["x² + C", "2x + C", "2x² + C", "x + C"],
+        "answer": "x² + C"
+      }
+    ]
+  },
+  "Science": {
+    "Easy": [
+      {
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Ag", "Au", "Gd", "Go"],
+        "answer": "Au"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is the speed of light in vacuum?",
+        "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "1.5 × 10^8 m/s", "1 × 10^9 m/s"],
+        "answer": "3 × 10^8 m/s"
+      }
+    ]
+  },
+  "English": {
+    "Easy": [
+      {
+        "question": "Which is a noun?",
+        "options": ["Run", "Jump", "Dog", "Quickly"],
+        "answer": "Dog"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "Choose the correct sentence:",
+        "options": [
+          "He go to school every day.",
+          "He goes to school every day.",
+          "He going to school every day.",
+          "He goed to school every day."
+        ],
+        "answer": "He goes to school every day."
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+        "options": ["Metaphor", "Personification", "Simile", "Hyperbole"],
+        "answer": "Personification"
+      }
+    ]
+  },
+  "History": {
+    "Easy": [
+      {
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "In what year did World War II end?",
+        "options": ["1944", "1945", "1946", "1947"],
+        "answer": "1945"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Vladimir Lenin", "Nikita Khrushchev", "Joseph Stalin", "Leon Trotsky"],
+        "answer": "Joseph Stalin"
+      }
+    ]
+  },
+  "General Knowledge": {
+    "Easy": [
+      {
+        "question": "How many continents are there on Earth?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "Which country invented pizza?",
+        "options": ["France", "Italy", "USA", "Greece"],
+        "answer": "Italy"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Who wrote 'The Art of War'?",
+        "options": ["Sun Tzu", "Confucius", "Laozi", "Mencius"],
+        "answer": "Sun Tzu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+    "Easy": [
+  {
+    "question": "Who was the first President of the Philippines?",
+    "options": ["Emilio Aguinaldo", "Jose Rizal", "Manuel Quezon", "Andres Bonifacio"],
+    "answer": "Emilio Aguinaldo"
+  },
+  {
+    "question": "What year did the Philippines gain independence from Spain?",
+    "options": ["1898", "1901", "1946", "1896"],
+    "answer": "1898"
+  },
+  {
+    "question": "Who wrote the national hero Jose Rizal’s famous novels?",
+    "options": ["Noli Me Tangere and El Filibusterismo", "La Solidaridad", "Ang Dapat Mabatid ng mga Tagalog", "Mi Ultimo Adios"],
+    "answer": "Noli Me Tangere and El Filibusterismo"
+  },
+  {
+    "question": "Which Filipino revolutionary leader founded the Katipunan?",
+    "options": ["Andres Bonifacio", "Emilio Aguinaldo", "Apolinario Mabini", "Antonio Luna"],
+    "answer": "Andres Bonifacio"
+  },
+  {
+    "question": "What is the significance of the year 1946 in Philippine history?",
+    "options": ["Philippines gained independence from the United States", "Philippines declared independence from Spain", "Jose Rizal was executed", "Philippine Revolution began"],
+    "answer": "Philippines gained independence from the United States"
+  },
+  {
+    "question": "Which city was the capital of the Philippines during the Spanish colonial period?",
+    "options": ["Manila", "Cebu", "Davao", "Quezon City"],
+    "answer": "Manila"
+  },
+  {
+    "question": "Who was known as the 'Brains of the Revolution'?",
+    "options": ["Apolinario Mabini", "Emilio Aguinaldo", "Jose Rizal", "Marcelo H. del Pilar"],
+    "answer": "Apolinario Mabini"
+  },
+  {
+    "question": "What was the name of the Philippine revolutionary government established in 1898?",
+    "options": ["First Philippine Republic", "Commonwealth of the Philippines", "Katipunan", "Philippine Commission"],
+    "answer": "First Philippine Republic"
+  },
+  {
+    "question": "Who led the defense of Bataan during World War II?",
+    "options": ["General Edward King", "General Douglas MacArthur", "General Emilio Aguinaldo", "General Antonio Luna"],
+    "answer": "General Edward King"
+  },
+  {
+    "question": "Which document declared the Philippines’ independence from Spain?",
+    "options": ["The Declaration of Philippine Independence", "The Malolos Constitution", "The Treaty of Paris", "The Act of Philippine Commission"],
+    "answer": "The Declaration of Philippine Independence"
+  }
+  ],
+    "Medium": [
+  {
+    "question": "Who was the first President of the Commonwealth of the Philippines?",
+    "options": ["Manuel L. Quezon", "Emilio Aguinaldo", "Jose P. Laurel", "Sergio Osmeña"],
+    "answer": "Manuel L. Quezon"
+  },
+  {
+    "question": "What year did the Philippine-American War begin?",
+    "options": ["1899", "1901", "1898", "1902"],
+    "answer": "1899"
+  },
+  {
+    "question": "Which constitution was ratified during the Commonwealth period?",
+    "options": ["1935 Constitution", "Malolos Constitution", "1973 Constitution", "1987 Constitution"],
+    "answer": "1935 Constitution"
+  },
+  {
+    "question": "Who succeeded Manuel L. Quezon as President of the Philippines?",
+    "options": ["Sergio Osmeña", "Jose P. Laurel", "Manuel Roxas", "Elpidio Quirino"],
+    "answer": "Sergio Osmeña"
+  },
+  {
+    "question": "Which Filipino general was known as the 'Lightning of the North' during the Philippine-American War?",
+    "options": ["Antonio Luna", "Emilio Aguinaldo", "Gregorio del Pilar", "Apolinario Mabini"],
+    "answer": "Gregorio del Pilar"
+  },
+  {
+    "question": "What was the name of the puppet government established by Japan in 1943?",
+    "options": ["Second Philippine Republic", "Commonwealth Government", "Katipunan", "First Philippine Republic"],
+    "answer": "Second Philippine Republic"
+  },
+  {
+    "question": "Who was the President of the Philippines during the declaration of Martial Law in 1972?",
+    "options": ["Ferdinand Marcos", "Corazon Aquino", "Diosdado Macapagal", "Gloria Macapagal Arroyo"],
+    "answer": "Ferdinand Marcos"
+  },
+  {
+    "question": "Which battle marked the turning point in the liberation of the Philippines during World War II?",
+    "options": ["Battle of Leyte Gulf", "Battle of Bataan", "Battle of Manila", "Battle of Corregidor"],
+    "answer": "Battle of Leyte Gulf"
+  },
+  {
+    "question": "Who was the first woman President of the Philippines?",
+    "options": ["Corazon Aquino", "Gloria Macapagal Arroyo", "Imelda Marcos", "Miriam Defensor Santiago"],
+    "answer": "Corazon Aquino"
+  },
+  {
+    "question": "Which movement peacefully ended the 21-year Marcos dictatorship in 1986?",
+    "options": ["EDSA People Power Revolution", "Cry of Pugad Lawin", "Katipunan Revolution", "Bataan Death March"],
+    "answer": "EDSA People Power Revolution"
+  }
+  ],
+    "Hard": [
+  {
+    "question": "Who was the first President of the First Philippine Republic?",
+    "options": ["Emilio Aguinaldo", "Apolinario Mabini", "Antonio Luna", "Gregorio del Pilar"],
+    "answer": "Emilio Aguinaldo"
+  },
+  {
+    "question": "Which treaty officially ended the Philippine-American War?",
+    "options": ["Treaty of Paris (1898)", "Treaty of Manila (1946)", "Benevolent Assimilation Proclamation", "Jones Law"],
+    "answer": "Treaty of Paris (1898)"
+  },
+  {
+    "question": "Who was the Filipino historian that wrote 'The Philippine Islands, 1493–1898'?",
+    "options": ["Teodoro Agoncillo", "Resil Mojares", "José Rizal", "John Leddy Phelan"],
+    "answer": "John Leddy Phelan"
+  },
+  {
+    "question": "Which revolutionary leader was assassinated at the Battle of Bagbag?",
+    "options": ["Antonio Luna", "Emilio Jacinto", "Apolinario Mabini", "Andres Bonifacio"],
+    "answer": "Antonio Luna"
+  },
+  {
+    "question": "The Cry of Pugad Lawin in 1896 marked the start of which movement?",
+    "options": ["Philippine Revolution against Spain", "Philippine-American War", "Katipunan Reorganization", "EDSA Revolution"],
+    "answer": "Philippine Revolution against Spain"
+  },
+  {
+    "question": "Who served as the first Prime Minister of the Philippines during the Marcos era?",
+    "options": ["Cesar Virata", "Ferdinand Marcos", "Imelda Marcos", "Benigno Aquino Jr."],
+    "answer": "Cesar Virata"
+  },
+  {
+    "question": "Which Philippine president signed the Treaty of General Relations with the United States, recognizing full independence?",
+    "options": ["Manuel Roxas", "Elpidio Quirino", "Ramon Magsaysay", "Carlos P. Garcia"],
+    "answer": "Manuel Roxas"
+  },
+  {
+    "question": "Who was the commander of the Filipino forces during the Battle of Tirad Pass?",
+    "options": ["Gregorio del Pilar", "Emilio Aguinaldo", "Antonio Luna", "Juan Luna"],
+    "answer": "Gregorio del Pilar"
+  },
+  {
+    "question": "Which constitution replaced the 1973 Constitution after the 1986 People Power Revolution?",
+    "options": ["1987 Constitution", "1935 Constitution", "Malolos Constitution", "1971 Constitutional Amendments"],
+    "answer": "1987 Constitution"
+  },
+  {
+    "question": "What year did the EDSA People Power II revolution take place, leading to the ouster of President Joseph Estrada?",
+    "options": ["2001", "1986", "1992", "1998"],
+    "answer": "2001"
+  }
+]
+
+  }
